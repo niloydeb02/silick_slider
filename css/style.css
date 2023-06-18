@@ -1,0 +1,15 @@
+
+.slick{
+  margin: 100px 0;
+}
+.demo{
+  padding: 0 10px;
+}
+
+.slick-prev {
+    left: -25px;
+}
+
+.slick-next {
+    right: -25px;
+}
